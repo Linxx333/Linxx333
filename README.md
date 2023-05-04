@@ -16,9 +16,9 @@
 </p>
 
 
-- 📈 I’m currently working on grow professionally
+- 📈 I’m looking to grow professionally
 - 🔧 I’m currently learning technical tools for data analysis
-- 💬 Ask me about Data Analysis and/or engineer, Videogames and Esports
+- 💬 Ask me about Data Analysis and/or Engineering, Videogames and Esports
 - 📫 How to reach me: nachoromerogsd@gmail.com
 
   ---
